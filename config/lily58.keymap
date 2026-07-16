@@ -25,7 +25,7 @@
 &kp TAB        &kp Q   &kp W   &kp E      &kp R       &kp T                                          &kp Y      &kp U          &kp I          &kp O    &kp P     &kp MINUS
 &kp BACKSPACE  &kp A   &kp S   &kp D      &kp F       &kp G                                          &kp H      &kp J          &kp K          &kp L    &kp SEMI  &kp SQT
 &kp LSHFT      &kp Z   &kp X   &kp C      &kp V       &kp B             &kp LBKT       &kp RBKT      &kp N      &kp M          &kp COMMA      &kp DOT  &kp FSLH  &kp RSHFT
-                               &kp LG(C)  &kp DOLLAR  &kp LEFT_COMMAND  &lt 1 SPACE    &lt 2 RETURN  &kp RG(V)  &kp RIGHT_ALT  &kp LC(SPACE)
+                               &kp LG(C)  &kp DOLLAR  &kp LEFT_COMMAND  &lt 1 SPACE    &lt 2 RETURN  &kp LG(V)  &kp RIGHT_ALT  &kp LC(SPACE)
             >;
         };
 
